@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hafizabdullah1/productsPagination.git/static/css/main.247c9ba7.css",
-    "main.js": "/hafizabdullah1/productsPagination.git/static/js/main.738389f5.js",
-    "static/js/787.8152f276.chunk.js": "/hafizabdullah1/productsPagination.git/static/js/787.8152f276.chunk.js",
-    "index.html": "/hafizabdullah1/productsPagination.git/index.html",
-    "main.247c9ba7.css.map": "/hafizabdullah1/productsPagination.git/static/css/main.247c9ba7.css.map",
-    "main.738389f5.js.map": "/hafizabdullah1/productsPagination.git/static/js/main.738389f5.js.map",
-    "787.8152f276.chunk.js.map": "/hafizabdullah1/productsPagination.git/static/js/787.8152f276.chunk.js.map"
+    "main.css": "/productsPagination/static/css/main.247c9ba7.css",
+    "main.js": "/productsPagination/static/js/main.3a69fed8.js",
+    "static/js/787.8152f276.chunk.js": "/productsPagination/static/js/787.8152f276.chunk.js",
+    "index.html": "/productsPagination/index.html",
+    "main.247c9ba7.css.map": "/productsPagination/static/css/main.247c9ba7.css.map",
+    "main.3a69fed8.js.map": "/productsPagination/static/js/main.3a69fed8.js.map",
+    "787.8152f276.chunk.js.map": "/productsPagination/static/js/787.8152f276.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.247c9ba7.css",
-    "static/js/main.738389f5.js"
+    "static/js/main.3a69fed8.js"
   ]
 }
